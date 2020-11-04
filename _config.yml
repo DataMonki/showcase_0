@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/showcase_0'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
